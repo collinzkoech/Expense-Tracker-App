@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "de.dbauer.expensetracker"
+    namespace = "com.example.expensetracker"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "de.dbauer.expensetracker"
+        applicationId = "com.example.expensetracker"
         minSdk = 24
         targetSdk = 34
         versionCode = 16
